@@ -1,0 +1,14 @@
+# Web scraping (headless Chromium)
+playwright==1.58.0
+
+# PDF parsing
+pdfplumber==0.11.9
+
+# Excel / CSV support
+pandas==3.0.2
+openpyxl==3.1.5
+
+# Search engine & price prediction
+numpy==2.4.4
+scikit-learn
+pymorphy2
