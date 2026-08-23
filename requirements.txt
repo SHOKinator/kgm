@@ -12,3 +12,7 @@ openpyxl==3.1.5
 numpy==2.4.4
 scikit-learn
 pymorphy2
+
+# Web UI
+gradio
+pillow
